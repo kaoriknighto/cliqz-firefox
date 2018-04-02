@@ -1,0 +1,13 @@
+panelview#PanelUI-webext-offers-cc-browser-action-view {
+  max-width: 550px !important;
+  min-width: 10px !important; }
+
+#offers-cc-browser-action[state="new-offers"] .toolbarbutton-badge {
+  display: block;
+  min-width: 8px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #fd001e;
+  margin: 0 !important;
+  margin-inline-end: -4px !important; }
